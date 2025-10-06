@@ -1,238 +1,133 @@
+# Security Books Inventory
 
-# Essential Security Books - Focused List
-
----
-
-## Networking Fundamentals
-
-**Computer Networking: A Top-Down Approach** by Kurose & Ross — £40
-- Deep networking theory, industry-standard textbook
-
-**TCP/IP Illustrated, Volume 1** by Stevens & Fall — £35
-- Protocol internals and deep technical understanding
-
-**Practical Packet Analysis, 3rd Ed** ⭐ by Chris Sanders — £30
-- Hands-on Wireshark and packet analysis
-
-**Wireshark 101, 2nd Ed** by Laura Chappell — £25
-- Advanced Wireshark techniques
-
-**Network Warrior, 2nd Ed** by Gary Donahue — £35
-- Real-world network configuration
-
-**DNSSEC Mastery, 2nd Ed** by Michael Lucas — £30
-- DNS security implementation
-
-**Network Security Essentials** by William Stallings — £45
-
-**Subtotal: £240**
+_Aligned with the [[README]] learning roadmap_
 
 ---
 
-## Web Application Security
+## 📚 Purchased Books (£158 total)
 
-**The Web Application Hacker's Handbook, 2nd Ed** by Stuttard/Pinto — £35
-- Comprehensive web attack encyclopedia
+### Network Fundamentals
+- [ ] **Practical Packet Analysis** (£21.99)
+  - Hands-on Wireshark practice
+  - Phase 1 essential reading
 
-**Bug Bounty Bootcamp** ⭐ by Vickie Li — £30
-- Modern bug hunting with real examples
+- [ ] **TCP/IP Illustrated** (£34.73)
+  - Protocol-level deep dive
+  - Reference material for Phase 1
 
-**Web Application Security, 2nd Ed (2024)** by Andrew Hoffman — £40
-- Latest threats and defenses
+### Web Application Security
+- [ ] **Bug Bounty Bootcamp** (£19.99)
+  - Modern web vulnerabilities
+  - Phase 2 core material
 
-**Real-World Bug Hunting** by Peter Yaworski — £25
-- Real bug bounty case studies
+- [ ] **Hacking APIs** (£25.99)
+  - API security testing
+  - Phase 2 specialization
 
-**Web Hacking 101** by Peter Yaworski — £20
-- Quick introduction to web hacking
+### Secure Development
+- [ ] **Alice and Bob Learn Application Security** (£27.77)
+  - Threat modeling & architecture
+  - Phase 4 reading
 
-**SQL Injection Attacks and Defense** by Clarke et al. — £35
-- Advanced injection techniques
+- [ ] **Alice and Bob Learn Secure Coding** (£26.50)
+  - Secure coding patterns
+  - Phase 2 material
 
-**Hacking APIs** by Corey J. Ball — £35
-- API-specific security testing
+### Offensive Security & Red Team
+- [ ] **Red Team Development and Operations** (£10.05)
+  - Red team infrastructure
+  - Phase 3 material
 
-**Subtotal: £220**
+- [ ] **Operator Handbook** (£12.18)
+  - Tools & techniques reference
+  - Phase 3 material
 
----
+- [ ] **Adversarial Tradecraft** (£32.99)
+  - Advanced red team tactics
+  - Phase 3 material
 
-## Reverse Engineering & Malware
-
-**Practical Malware Analysis** by Sikorski & Honig — £35
-- Industry standard for malware analysts
-
-**Practical Binary Analysis** by Dennis Andriesse — £35
-- Modern binary analysis techniques
-
-**Practical Reverse Engineering** by Dang/Gazet/Bachaalany — £40
-- Comprehensive Windows reversing
-
-**The Ghidra Book** by Chris Eagle — £35
-- Complete Ghidra usage guide
-
-**Ghidra for Beginners, 2nd Ed (2025)** — £30
-- Accessible Ghidra introduction
-
-**Subtotal: £175**
-
----
-
-## Offensive Security & Red Team
-
-**Red Team Engineering** by Casey Erdmann (Jan 2026) — £40
-- Hands-on red team operations guide
-
-**Adversarial Tradecraft** ⭐ by Vest & Tubberville — £45
-- Real-time attack/defense techniques
-
-**Red Team Development and Operations** — £50
-- Building red team programs
-
-**Advanced Penetration Testing** by Wil Allsopp — £45
-- Enterprise-level techniques
-
-**Operator Handbook: Red Team + OSINT** — £35
-- Field reference guide
-
-**Subtotal: £215**
+- [ ] **Hacker Playbook 3** (£14.31)
+  - Penetration testing methodology
+  - Phase 3 material
 
 ---
 
-## Penetration Testing & Ethical Hacking
+## 🔮 Future Purchases (Phase 5)
 
-**The Hacker Playbook 3** ⭐ by Peter Kim — £40
-- Modern penetration testing
+**Hold until completing Phase 4**
 
-**Penetration Testing** by Georgia Weidman — £40
-- Hands-on introduction
+- [ ] **Penetration Testing Azure for Ethical Hackers** (~£25-35)
+  - Azure-specific pentesting
+  - Decision: Azure vs AWS based on work environment
 
-**Kali Linux Revealed** — £30
-- Official Kali documentation
+- [ ] **Hands-On AWS Penetration Testing with Kali Linux** (~£30-40)
+  - AWS-specific pentesting
+  - Alternative to Azure book
 
-**Hacking: The Art of Exploitation, 2nd Ed** by Jon Erickson — £45
-- Low-level exploitation techniques
-
-**Black Hat Python, 2nd Ed** by Justin Seitz — £40
-- Offensive Python programming
-
-**Gray Hat Hacking** — £50
-- Comprehensive hacking encyclopedia
-
-**Linux Basics for Hackers** by OccupyTheWeb — £30
-- Linux for security professionals
-
-**Metasploit: The Penetration Tester's Guide** — £40
-- Industry-standard exploit framework
-
-**Social Engineering: The Science of Human Hacking** by Christopher Hadnagy — £35
-- Human element of security
-
-**Blue Team Handbook** — £30
-- Defensive security focus
-
-**Cybersecurity Blue Team Toolkit** — £35
-- Detection, response, hardening
-
-**Subtotal: £415**
+- [ ] **Hacking Kubernetes** (~£25-35)
+  - Container & K8s security
+  - Cloud-native security focus
 
 ---
 
-## AI Security
+## 📖 Free Reference Materials
 
-**AI Security Field Manual** (1060+ pages) — £60
-- Comprehensive AI security resource
+- **Security Engineering** by Ross Anderson
+  - Free PDF available online
+  - Architecture-level security
 
-**LLM Security** — £40
-- Large language model security
-
-**Adversarial Machine Learning** — £45
-- ML attacks and defenses
-
-**Subtotal: £145**
+- **Threat Modeling** by Adam Shostack
+  - Revisit in 6-12 months
+  - Covered initially by Alice & Bob books
 
 ---
 
-## 📊 Cost Summary
+## 🗺️ Reading Sequence by Phase
 
-|Category|Number of Books|Subtotal|
-|---|---|---|
-|Networking Fundamentals|7|£240|
-|Web Application Security|7|£220|
-|Reverse Engineering & Malware|5|£175|
-|Offensive Security & Red Team|5|£215|
-|Penetration Testing & Ethical Hacking|11|£415|
-|AI Security|3|£145|
+### Phase 1: Network Fundamentals (Current)
+1. Practical Packet Analysis (hands-on focus)
+2. TCP/IP Illustrated (reference/depth)
 
-**TOTAL: 38 books for £1,410**
+### Phase 2: Web Application Security
+1. Bug Bounty Bootcamp (primary)
+2. Alice and Bob Learn Secure Coding (parallel)
+3. Hacking APIs (after Bug Bounty Bootcamp)
 
----
+### Phase 3: Red Team Operations
+1. Operator Handbook (quick reference first)
+2. Hacker Playbook 3 (methodology)
+3. Red Team Development and Operations (infrastructure)
+4. Adversarial Tradecraft (advanced tactics)
 
-## 💡 Recommended Starter Packs
+### Phase 4: Application Security Architecture
+1. Alice and Bob Learn Application Security
+2. Revisit Security Engineering (Ross Anderson)
 
-### Budget Starter (£160)
-
-Best bang for buck across all categories:
-
-- Practical Packet Analysis — £30
-- Bug Bounty Bootcamp — £30
-- The Hacker Playbook 3 — £40
-- Linux Basics for Hackers — £30
-- Web Application Hacker's Handbook — £35
-
-### Core Professional (£400)
-
-Essential books for serious security career:
-
-- TCP/IP Illustrated — £35
-- Practical Packet Analysis — £30
-- Bug Bounty Bootcamp — £30
-- Web Application Hacker's Handbook — £35
-- Practical Malware Analysis — £35
-- The Hacker Playbook 3 — £40
-- Adversarial Tradecraft — £45
-- Hacking: The Art of Exploitation — £45
-- Linux Basics for Hackers — £30
-- Black Hat Python — £40
-- AI Security Field Manual — £60
-
-### Offensive Specialist (£270)
-
-Focused on red team and pentesting:
-
-- Practical Packet Analysis — £30
-- Bug Bounty Bootcamp — £30
-- The Hacker Playbook 3 — £40
-- Adversarial Tradecraft — £45
-- Red Team Engineering — £40
-- Linux Basics for Hackers — £30
-- Black Hat Python — £40
-- Social Engineering — £35
+### Phase 5: Cloud & Container Security
+1. Hacking Kubernetes
+2. Azure OR AWS pentesting book (decide in Phase 4)
 
 ---
 
-## ⭐ Top 10 Must-Have Books (If You Only Buy 10)
+## ✅ Key Decisions Made
 
-1. **Practical Packet Analysis** — £30 (Networking)
-2. **Bug Bounty Bootcamp** — £30 (Web Security)
-3. **Web Application Hacker's Handbook** — £35 (Web Security)
-4. **The Hacker Playbook 3** — £40 (Pentesting)
-5. **Practical Malware Analysis** — £35 (Reverse Engineering)
-6. **Adversarial Tradecraft** — £45 (Red Team)
-7. **Linux Basics for Hackers** — £30 (Pentesting)
-8. **Black Hat Python** — £40 (Pentesting)
-9. **AI Security Field Manual** — £60 (AI Security)
-10. **TCP/IP Illustrated** — £35 (Networking)
-
-**Top 10 Total: £380**
+- ✅ Skipped Web App Hacker's Handbook (redundant with Bug Bounty Bootcamp)
+- ✅ Kept both Alice & Bob books (complementary: one coding, one architecture)
+- ✅ Deferred cloud books until Phase 5
+- ✅ Skipped Social Engineering (not technical priority)
+- ✅ Using free PDF for Security Engineering
 
 ---
 
-## Notes
+## 📊 Budget Summary
 
-⭐ = Highly recommended for that category
+| Category | Books | Cost |
+|----------|-------|------|
+| Purchased | 10 books | £158 |
+| Future (Phase 5) | 3 books | ~£80-100 |
+| **Total Investment** | **13 books** | **~£238-258** |
 
-**Prices:** Approximate GBP prices. Many available cheaper second-hand or on sale.
+---
 
-**Free Resources:** Pair with PortSwigger Academy, TryHackMe, HackTheBox, OWASP guides
-
-**Strategy:** Start with Top 10, add specific books as you specialize
+_Last updated: 2025-10-06_
+_See [[README]] for full learning roadmap_
