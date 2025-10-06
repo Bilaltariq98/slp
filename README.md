@@ -7,7 +7,7 @@ _From SWE to SWE Security Professional or something_
 ## 🎯 Overview
 
 **Background:** 10 years software engineering experience (FE/BE/OPS)  
-**Goal:** Fullfil childhood passion for hacking + leverage SWE skills into security  
+**Goal:** Fullfil childhood passion for hacking + leverage SWE skills with security hardening
 **Approach:** Systematic, foundational learning with daily practice  
 **Timeline:** ~12-18 months for complete roadmap
 
